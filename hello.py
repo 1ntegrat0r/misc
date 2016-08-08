@@ -1,1 +1,2 @@
-print "hello world"
+name = raw_input("What's your name? ")
+print "Welcome", name
